@@ -146,7 +146,7 @@ const Navbar = ({ onLogin, onSignup, navigate }) => {
           <div style={{ width:38, height:38, background:`linear-gradient(135deg,${T.primary},${T.primaryDk})`, borderRadius:10, display:"flex", alignItems:"center", justifyContent:"center" }}>
             <span style={{ color:T.white, fontWeight:800, fontSize:18, fontFamily:"'Lora',serif" }}>V</span>
           </div>
-          <span style={{ fontWeight:800, fontSize:20, color:T.primary, letterSpacing:"-0.4px" }}>Vault<span style={{ color:T.accent }}>Pay</span></span>
+          <span style={{ fontWeight:800, fontSize:20, color:T.primary, letterSpacing:"-0.4px" }}>Escrwo<span style={{ color:T.accent }}>Pay</span></span>
         </div>
 
         {/* Desktop nav */}
